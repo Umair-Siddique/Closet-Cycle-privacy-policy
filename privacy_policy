@@ -1,0 +1,287 @@
+Privacy Policy
+
+Effective Date: 25th Feb, 2026
+App Name: Closet Cycle
+Location: United States
+
+Closet Cycle (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application and related services (the “App”).
+
+By using Closet Cycle, you agree to this Privacy Policy.
+
+1. Information We Collect
+
+We collect the following categories of information:
+
+A. Personal Information
+
+When you create an account, we collect:
+
+Email address
+
+First name and last name
+
+Phone number (optional)
+
+This information is used to create and manage your account.
+
+B. Account & Authentication Data
+
+We use Firebase Authentication to manage user accounts. This includes:
+
+Login credentials (securely stored by Firebase)
+
+Email verification status
+
+Password reset records
+
+We do not store your password in plain text.
+
+C. Profile Information
+
+You may choose to provide:
+
+Username
+
+Bio
+
+Profile picture
+
+Location (city/state)
+
+Wardrobe preferences
+
+This information is visible to other users.
+
+D. Location Information
+
+We collect:
+
+GPS location or manually entered location
+
+Location is used to:
+
+Display your general location on your profile
+
+Improve trade relevance and item recommendations
+
+We do NOT perform background tracking or real-time monitoring.
+
+E. User-Generated Content
+
+We collect and store:
+
+Photos and videos uploaded for listings
+
+Item descriptions
+
+Tags and metadata
+
+Messages between users
+
+Ratings and reviews
+
+This content is necessary to operate the platform.
+
+F. Payment Information
+
+Payments are processed securely through Stripe (and/or PayPal, if enabled).
+
+We do NOT store:
+
+Credit card numbers
+
+Full payment details
+
+Stripe processes payment data according to its own privacy policy.
+
+G. Shipping Information
+
+When a trade is accepted, users provide:
+
+Shipping name
+
+Shipping address
+
+Shipping labels are generated through Shippo. Addresses are only shared after trade acceptance.
+
+H. Device Information
+
+We may automatically collect:
+
+Device type
+
+Operating system
+
+App version
+
+Basic analytics data
+
+This helps us improve performance and fix bugs.
+
+2. How We Use Your Information
+
+We use your information to:
+
+Create and manage user accounts
+
+Enable trading and payments
+
+Generate shipping labels
+
+Facilitate messaging
+
+Provide customer support
+
+Send notifications (trade updates, messages, etc.)
+
+Improve app functionality and recommendations
+
+Prevent fraud and abuse
+
+Comply with legal obligations
+
+We do NOT sell your personal data.
+
+3. How We Share Information
+
+We may share information in the following situations:
+
+With Other Users
+
+Profile information
+
+Listings
+
+Ratings and reviews
+
+Location (general area only)
+
+Shipping address (only after trade acceptance)
+
+With Service Providers
+
+We share limited information with:
+
+Firebase (Google Cloud) – authentication, storage, database
+
+Stripe – payment processing
+
+Shippo – shipping label generation
+
+Push notification services
+
+These providers are contractually required to safeguard your information.
+
+Legal Requirements
+
+We may disclose information if required by law, court order, or government request.
+
+4. Data Security
+
+We use industry-standard security measures, including:
+
+HTTPS encryption
+
+Firebase security rules
+
+Secure cloud storage
+
+Role-based access controls
+
+However, no system is 100% secure. Use of the App is at your own risk.
+
+5. Data Retention
+
+We retain personal information as long as:
+
+Your account is active
+
+Necessary to provide services
+
+Required for legal or regulatory compliance
+
+If you request account deletion:
+
+Your account and associated data will be deleted within 30 days
+
+Some transactional records may be retained if legally required
+
+6. Your Privacy Rights (U.S.)
+
+Depending on your state (e.g., California under CCPA/CPRA), you may have the right to:
+
+Request access to your personal data
+
+Request deletion of your data
+
+Request correction of inaccurate information
+
+Opt out of certain data uses
+
+To exercise your rights, contact us at:
+[Insert Support Email]
+
+We will respond within legally required timeframes.
+
+7. Children's Privacy
+
+Closet Cycle is intended for users aged 13 and older.
+
+We do not knowingly collect personal information from children under 13.
+If we discover such data, we will delete it immediately.
+
+Parents may contact us to request removal of a minor’s information.
+
+8. Push Notifications
+
+We may send:
+
+Trade updates
+
+Message notifications
+
+Wishlist alerts
+
+You may disable push notifications through your device settings.
+
+9. Third-Party Links & Services
+
+The App integrates with third-party services including:
+
+Stripe
+
+Shippo
+
+Firebase
+
+We are not responsible for the privacy practices of third-party services. Please review their privacy policies separately.
+
+10. Account Deletion
+
+You may request account deletion:
+
+Through in-app settings (if available), or
+
+By contacting support
+
+All personal data will be deleted within 30 days, except where retention is legally required.
+
+11. Changes to This Privacy Policy
+
+We may update this Privacy Policy periodically.
+
+If significant changes occur, we will notify users via:
+
+In-app notification
+
+Email
+
+Continued use of the App after updates constitutes acceptance.
+
+12. Contact Us
+
+If you have questions about this Privacy Policy, contact:
+
+Closet Cycle Support
+Email: support@closetcycle.com
+Website: [Insert Website]
